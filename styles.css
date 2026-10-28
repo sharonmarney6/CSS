@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  color: #333333;
+}
+header nav ul li a {
+  color: #0056b3;
+}
+
+aside ul li a {
+  color: #28a745;
+}
+
+footer ul li a {
+  color: #6c757d;
+}
+
+.btn-comprar {
+  color: blue;
+}
+
+#btn-destacado {
+  color: red;
+}
+
+.btn-comprar {
+  background-color: #ffc107;
+  color: #000;
+  padding: 8px 15px;
+  text-decoration: none;
+}
